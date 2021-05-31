@@ -363,6 +363,7 @@ a:hover {
 }
 
 @media (min-width: 768px) {
+    
     .site-navigation {
         position: absolute;
         top: 50%;
