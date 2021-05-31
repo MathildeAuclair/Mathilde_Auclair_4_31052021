@@ -371,8 +371,8 @@ a:hover {
         -webkit-transform: translateY(-50%);
     }
     .col-sm-12 {
-        max-width: 1226px;
-        max-height: 126px;
+        width: 1226px;
+        height: 168px;
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
