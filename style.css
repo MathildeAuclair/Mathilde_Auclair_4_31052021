@@ -707,6 +707,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: #333333!important;
 }
 
 h3 {
@@ -723,10 +724,6 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
-}
-
-h4 {
     color: #333333!important;
 }
 
@@ -811,18 +808,34 @@ h4 {
 
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
+    min-width: 0;
+	min-height: 0;
+	overflow: hidden;
+	object-fit: cover;
 }
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
+    min-width: 0;
+	min-height: 0;
+	overflow: hidden;
+	object-fit: cover;
 }
 
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere.jpg");
+    min-width: 0;
+	min-height: 0;
+	overflow: hidden;
+	object-fit: cover;
 }
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+    min-width: 0;
+	min-height: 0;
+	overflow: hidden;
+	object-fit: cover;
 }
 
 @media (max-width: 1024px) {
