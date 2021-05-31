@@ -370,10 +370,6 @@ a:hover {
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
-    .col-sm-12 {
-        width: 1226px;
-        height: 168px;
-    }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
         color: #484848;
