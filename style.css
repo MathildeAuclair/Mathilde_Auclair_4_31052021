@@ -370,6 +370,10 @@ a:hover {
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
+    .col-sm-12 {
+        max-width: 1226px;
+        max-height: 126px;
+    }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
         color: #484848;
@@ -699,7 +703,7 @@ p {
     font-weight: 700;
 }
 
-.social-media {
+.instagram, .facebook, .dribbble, .twitter {
     max-width: 400px;
     margin: auto auto auto auto;
 }
@@ -986,8 +990,6 @@ h4 {
     .bloc-md {
         padding-left: 0;
         padding-right: 0;
-        width: 1226px;
-        height: 126px;
     }
     .bloc-tile-2 .container,
     .bloc-tile-3 .container,
