@@ -986,6 +986,8 @@ h4 {
     .bloc-md {
         padding-left: 0;
         padding-right: 0;
+        width: 1226px;
+        height: 126px;
     }
     .bloc-tile-2 .container,
     .bloc-tile-3 .container,
