@@ -462,7 +462,8 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 20px!important;
+    margin-top: 15px;
 }
 
 .icon-lg {
@@ -763,7 +764,7 @@ h4 {
 }
 
 .tc-white {
-    background-color: #F3976C!important;
+    background-color: #fd7f45e1!important;
     color: white!important;
 }
 
