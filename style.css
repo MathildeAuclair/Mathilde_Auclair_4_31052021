@@ -466,7 +466,14 @@ button {
     margin-top: 15px;
     color: white!important;
 }
-
+.titre {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.citation {
+    font-size: 20px;
+    font-style: italic;
+}
 .icon-lg {
     font-size: 60px!important;
 }
@@ -665,7 +672,7 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .tight-width-whitespace {
@@ -766,6 +773,7 @@ h4 {
 
 .tc-white {
     color: white!important;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine {
