@@ -299,7 +299,9 @@ a:hover {
 .nav-center .navbar-brand img {
     margin: 0;
 }
-
+.sr-only {
+    display: none;
+}
 .navbar .nav {
     padding-top: 2px;
     margin-right: -16px;
@@ -352,7 +354,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 20px;
+        right: 15%;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
@@ -393,6 +395,10 @@ a:hover {
     background: none!important;
     display: block;
     padding: 14px 15px;
+}
+
+.site-navigation a {
+    margin-right: 28px;
 }
 
 nav .caret {
