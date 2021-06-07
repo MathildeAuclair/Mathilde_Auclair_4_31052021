@@ -287,7 +287,8 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 200px;
+    height: 80%;
+    width: 70%;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -968,8 +969,8 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        max-height: 40px;
-        width: 50%;
+            height: 70%;
+            width: 60%;
     }
     .nav-invert .navbar-header {
         float: none;
