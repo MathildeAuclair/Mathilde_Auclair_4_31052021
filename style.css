@@ -742,6 +742,8 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    font-weight: bold;
+    font-size: 15px;
 }
 
 .portfolio-thumb {
@@ -797,10 +799,11 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    font-weight: bold;
 }
 
 .ltc-white:hover {
-    color: #cccccc!important;
+    color: #95390F!important;
 }
 
 .ltc-atomic-tangerine {
