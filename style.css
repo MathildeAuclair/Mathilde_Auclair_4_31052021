@@ -828,7 +828,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -969,7 +969,7 @@ h4 {
     }
     .navbar-brand img {
         max-height: 40px;
-        width: auto;
+        width: 50%;
     }
     .nav-invert .navbar-header {
         float: none;
